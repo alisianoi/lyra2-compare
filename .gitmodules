@@ -4,3 +4,4 @@
 [submodule "lyra"]
 	path = lyra
 	url = git@github.com:all3fox/Lyra
+	branch = harness
