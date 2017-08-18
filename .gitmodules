@@ -1,3 +1,6 @@
 [submodule "lyra2-java"]
 	path = lyra2-java
 	url = git@github.com:all3fox/lyra2-java
+[submodule "lyra"]
+	path = lyra
+	url = git@github.com:all3fox/Lyra
