@@ -1,0 +1,1029 @@
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 1 3
+[0.2085254192352295, 20564992, 17162240]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 1 3
+[0.2229621410369873, 18743296, 15310848]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 1 3
+[0.23351621627807617, 22049792, 17559552]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 1 3
+[0.23857951164245605, 20348928, 15826944]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 1 10
+[0.22443342208862305, 20832256, 17145856]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 1 10
+[0.2541773319244385, 20340736, 15593472]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 1 10
+[0.28046083450317383, 23530496, 17203200]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 1 10
+[0.2976830005645752, 22638592, 17944576]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 1 50
+[0.39367175102233887, 23371776, 19968000]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 1 50
+[0.42127442359924316, 32730112, 29319168]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 1 50
+[0.7019491195678711, 28104704, 24670208]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 1 50
+[0.6829290390014648, 29445120, 24854528]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 1 100
+[0.45485997200012207, 23886848, 20287488]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 1 100
+[0.5085890293121338, 24763392, 20279296]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 1 500
+[1.076059103012085, 54988800, 51576832]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 1 100
+[1.2206861972808838, 31195136, 27811840]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 1 100
+[1.327268123626709, 42877952, 39456768]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 1 500
+[1.244100570678711, 73562112, 68063232]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 1 1000
+[1.4850051403045654, 77117440, 73670656]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 1 1000
+[1.4596612453460693, 82710528, 79306752]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 1 500
+[3.1109585762023926, 67339264, 63901696]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 1 500
+[3.873847484588623, 73447424, 70008832]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 1 1000
+[5.3650429248809814, 79964160, 76587008]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 1 10000
+[6.85192608833313, 265076736, 261660672]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 10 3
+[0.5521025657653809, 24665088, 21303296]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 1 10000
+[7.831068515777588, 391696384, 388247552]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 10 10
+[0.6018874645233154, 35587072, 31105024]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 1 1000
+[6.0498130321502686, 85216256, 81760256]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 10 3
+[0.2651040554046631, 21517312, 17027072]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 10 10
+[0.4574298858642578, 31161344, 26595328]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 10 50
+[0.8831455707550049, 65574912, 58998784]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 10 50
+[0.9065437316894531, 61028352, 56524800]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 10 100
+[0.8872101306915283, 66144256, 59576320]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 10 100
+[1.169388771057129, 61225984, 57815040]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 10 500
+[2.931706190109253, 171199488, 167780352]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 10 500
+[2.579667329788208, 173460480, 170016768]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 10 1000
+[4.092175006866455, 309323776, 305885184]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 10 1000
+[5.61677098274231, 189834240, 185335808]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 10 10000
+[35.30056047439575, 458525696, 455131136]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 20 3
+[0.42583274841308594, 31506432, 28119040]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 20 10
+[0.2311239242553711, 42203136, 37699584]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 1 10000
+[46.65334105491638, 258430976, 255000576]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 20 50
+[0.6287662982940674, 64160768, 59633664]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 10 3
+[0.44583892822265625, 20763648, 17408000]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 20 100
+[1.2505040168762207, 68353024, 64954368]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 10 10
+[0.789647102355957, 37809152, 33300480]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 1 10000
+[47.63154149055481, 365939712, 362483712]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 10 50
+[1.602935552597046, 61166592, 57544704]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 10 3
+[0.48624300956726074, 21501952, 17043456]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 10 10
+[0.6955199241638184, 30266368, 26877952]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 20 500
+[3.8079464435577393, 175127552, 171683840]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 10 50
+[2.1508820056915283, 62004224, 58601472]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 10 100
+[3.2502400875091553, 65218560, 61800448]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 10 10000
+[41.142975091934204, 958729216, 955150336]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 20 3
+[0.39037489891052246, 25478144, 22118400]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 20 10
+[0.4294106960296631, 49700864, 46313472]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 20 50
+[1.6680552959442139, 61303808, 57892864]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 10 100
+[3.1682770252227783, 62082048, 58654720]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 20 100
+[1.585871934890747, 66923520, 63500288]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 20 1000
+[8.613580465316772, 313246720, 309846016]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 20 500
+[5.237218856811523, 176506880, 171937792]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 10 500
+[15.997261047363281, 80160768, 76738560]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 10 500
+[18.14442539215088, 76825600, 73408512]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 20 1000
+[12.503133535385132, 316295168, 311836672]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 10 1000
+
+[30.783852577209473, 76394496, 72957952]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 10 1000
+[30.502542734146118, 118211584, 113684480]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 20 10000
+[79.22380924224854, 883577856, 879091712]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 40 3
+[0.5457627773284912, 23196672, 19791872]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 40 10
+[0.619300365447998, 57088000, 53645312]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 40 50
+[1.4392821788787842, 92062720, 88666112]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 40 100
+[2.1383814811706543, 103142400, 99721216]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 40 500
+[7.351858615875244, 300758016, 297308160]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 20 10000
+[80.66710162162781, 824375296, 820932608]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 40 3
+[0.41173696517944336, 36865024, 33431552]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 40 10
+[0.6469223499298096, 52897792, 49520640]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 40 50
+[1.5293612480163574, 66266112, 62828544]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 40 100
+[2.890036106109619, 135233536, 131825664]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 40 1000
+[14.369652509689331, 568219648, 564822016]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 40 500
+[8.846753597259521, 303688704, 299184128]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 40 1000
+[17.51180672645569, 312612864, 309186560]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 40 10000
+[142.55469417572021, 880356352, 876953600]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 60 3
+[0.5074827671051025, 31159296, 27762688]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 60 10
+[0.6265730857849121, 56782848, 53350400]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 60 50
+[1.7495532035827637, 75397120, 71962624]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 60 100
+[2.958064556121826, 166852608, 163438592]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 60 500
+[10.107524871826172, 297905152, 294498304]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 60 1000
+[19.930788278579712, 306339840, 302927872]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 40 10000
+[157.23011302947998, 691578880, 688177152]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 60 3
+[0.6056375503540039, 48465920, 44019712]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 60 10
+[0.7646961212158203, 56914944, 52428800]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 60 50
+[2.037187337875366, 73211904, 68759552]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 60 100
+[3.436262845993042, 168253440, 164814848]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 10 10000
+[262.8472418785095, 284585984, 281145344]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 20 3
+[0.8128371238708496, 28120064, 25395200]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 20 10
+[1.2293510437011719, 41946112, 39206912]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 20 50
+[3.3011815547943115, 66305024, 62885888]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 60 500
+[12.951811075210571, 166047744, 162607104]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 10 10000
+[266.6954097747803, 377443328, 372940800]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 20 3
+[0.5854330062866211, 30076928, 26664960]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 20 10
+[1.039050579071045, 50236416, 45731840]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 20 100
+[5.998310804367065, 60195840, 55693312]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 20 50
+[2.856046438217163, 65335296, 61947904]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 20 100
+[5.9033215045928955, 68386816, 64978944]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 60 1000
+[25.31134295463562, 573130752, 569749504]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 20 500
+[25.660995483398438, 68914176, 65503232]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 20 500
+[24.740480661392212, 81767424, 74997760]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 20 1000
+[49.86974382400513, 81433600, 77996032]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 20 1000
+[50.674761056900024, 83512320, 79020032]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 60 10000
+[208.0465612411499, 573264896, 569823232]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 80 3
+[0.7991831302642822, 34564096, 31834112]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 80 10
+[1.2177579402923584, 55792640, 53067776]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 80 50
+[3.13409161567688, 131110912, 128376832]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 80 100
+[3.677455186843872, 166912000, 163500032]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 80 500
+[16.141526699066162, 172860416, 169447424]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 80 1000
+[31.88997530937195, 565880832, 562450432]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 60 10000
+[242.76022958755493, 873533440, 869003264]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 80 3
+[0.9658851623535156, 35689472, 32944128]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 80 10
+[1.2129721641540527, 55117824, 52379648]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 80 50
+[3.341909408569336, 95389696, 92655616]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 80 100
+[5.236208438873291, 170121216, 166699008]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 80 500
+[19.217293739318848, 180870144, 177455104]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 80 1000
+[35.550591230392456, 572275712, 568868864]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 80 10000
+[290.21406507492065, 683307008, 679874560]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 100 3
+[0.47940659523010254, 52616192, 49209344]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 100 10
+[0.7283282279968262, 58988544, 55607296]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 100 50
+[2.2082481384277344, 162682880, 159256576]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 100 100
+[4.004198789596558, 293073920, 289632256]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 100 500
+[16.958036422729492, 295727104, 292323328]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 100 1000
+
+[29.62276601791382, 569017344, 564506624]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 20 10000
+[522.5254871845245, 295556096, 292167680]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 40 3
+[0.43831682205200195, 35319808, 30789632]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 40 10
+[1.1111843585968018, 56496128, 51957760]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 40 50
+[4.057357549667358, 63601664, 59084800]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 40 100
+[7.226749897003174, 71142400, 64495616]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 20 10000
+[531.8520040512085, 338612224, 335159296]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 40 3
+[0.41700029373168945, 41950208, 37457920]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 40 10
+[1.1265380382537842, 64451584, 59936768]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 40 50
+[3.709777355194092, 68397056, 63918080]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 80 10000
+[290.8139934539795, 965402624, 960892928]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 40 100
+[7.328398704528809, 72565760, 68108288]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 100 3
+[0.5536165237426758, 46018560, 41586688]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 100 10
+[0.781635046005249, 58044416, 53460992]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 100 50
+[2.7909483909606934, 149716992, 146268160]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 100 100
+[4.374874114990234, 297428992, 293998592]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 40 500
+[37.32831883430481, 74467328, 71016448]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 100 500
+[21.778752088546753, 300033024, 296636416]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 40 500
+[53.32008695602417, 77154304, 73732096]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 100 1000
+[35.9466986656189, 310070272, 305606656]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 40 1000
+[89.34510254859924, 78879744, 74412032]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 40 1000
+[90.78540587425232, 86962176, 82489344]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-8 10 100 10000
+[296.40411925315857, 854407168, 849887232]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 1 3
+[0.3533515930175781, 16002048, 13262848]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 1 10
+[0.4166738986968994, 14934016, 12222464]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 1 50
+[0.5739450454711914, 21722112, 18984960]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 1 100
+[0.7352702617645264, 25708544, 22999040]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 1 500
+[1.1894745826721191, 64655360, 61902848]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 1 1000
+[1.4879095554351807, 73552896, 70774784]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 1 10000
+[8.429638385772705, 322776064, 320024576]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 10 3
+[0.4689450263977051, 28496896, 25088000]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 10 10
+[0.3843836784362793, 26745856, 23359488]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 10 50
+[0.7260069847106934, 53997568, 50552832]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 10 100
+[0.7824063301086426, 62864384, 59441152]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 10 500
+[2.3805789947509766, 109438976, 106029056]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 10 1000
+[3.9616944789886475, 283894784, 280539136]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 10 10000
+[39.75263953208923, 609596416, 606179328]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 20 3
+[0.3837242126464844, 20281344, 16896000]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 20 10
+[0.5132553577423096, 30279680, 27557888]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 20 50
+[1.3725762367248535, 60288000, 57565184]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 20 100
+[2.4214727878570557, 101337088, 98582528]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 20 500
+[4.129176616668701, 173760512, 170344448]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 20 1000
+[7.888174295425415, 307421184, 304001024]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 20 10000
+[67.40612983703613, 525123584, 521678848]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 40 3
+[0.5909473896026611, 31707136, 28966912]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 40 10
+[0.8854174613952637, 53321728, 50565120]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 40 50
+[1.8031139373779297, 65518592, 62099456]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 40 100
+[2.1420328617095947, 128963584, 125566976]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 40 500
+[7.278455018997192, 554850304, 551432192]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-1-blocks-12 10 100 10000
+[355.6408338546753, 753956864, 750559232]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 1 3
+[0.32895898818969727, 14082048, 11411456]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 1 10
+[0.41634321212768555, 16524288, 13787136]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 1 50
+[0.6090364456176758, 28529664, 25808896]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 1 100
+[0.6826858520507812, 30352384, 27660288]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 1 500
+[1.0996479988098145, 50685952, 47927296]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 1 1000
+[1.6830670833587646, 83259392, 80519168]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 40 1000
+[14.485400915145874, 561454080, 558690304]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 1 10000
+[8.712109804153442, 339974144, 336551936]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 10 3
+[0.5200164318084717, 15227904, 12947456]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 10 10
+[0.4186127185821533, 17597440, 14880768]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 10 50
+[0.9074294567108154, 57558016, 54841344]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 10 100
+[1.426180124282837, 59016192, 56283136]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 10 500
+[3.062343120574951, 176354304, 172949504]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 10 1000
+[5.541698932647705, 313448448, 310050816]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 10 10000
+[41.144819021224976, 942305280, 938868736]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 20 3
+
+[0.29242753982543945, 28423168, 25047040]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 20 10
+[0.4292604923248291, 47571968, 44195840]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 20 50
+[1.0934972763061523, 64040960, 60686336]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 20 100
+[1.4200799465179443, 69096448, 65662976]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 20 500
+[4.3584325313568115, 298494976, 295133184]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 20 1000
+[8.305293321609497, 573912064, 570486784]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 40 10000
+[138.61829710006714, 606988288, 603586560]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 60 3
+[0.480330228805542, 50214912, 46825472]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 60 10
+[0.6260414123535156, 56570880, 53149696]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 60 50
+[1.4365642070770264, 98188288, 94781440]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 60 100
+[2.8628599643707275, 160983040, 157577216]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 60 500
+[10.539591789245605, 300796928, 297398272]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 20 10000
+[80.6548523902893, 939998208, 936570880]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 40 3
+[0.2853245735168457, 24041472, 20676608]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 40 10
+[0.5800902843475342, 54364160, 50958336]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 40 50
+[1.5256483554840088, 62530560, 59109376]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 40 100
+[2.4731180667877197, 101866496, 98463744]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 40 500
+[8.734496116638184, 300623872, 297218048]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 60 1000
+[20.76891255378723, 307880960, 304447488]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 40 1000
+[14.980308294296265, 318928896, 314437632]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 40 10000
+[154.21763467788696, 963646464, 960253952]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 60 3
+[0.6528265476226807, 38403072, 35655680]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 60 10
+[1.0096805095672607, 55682048, 52240384]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 60 50
+[1.685105800628662, 68598784, 65212416]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 60 100
+[3.0483155250549316, 167238656, 163831808]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 60 500
+[11.625556230545044, 300817408, 297414656]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 60 10000
+[200.33223009109497, 605824000, 602406912]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 80 3
+[0.7766034603118896, 34724864, 32010240]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 80 10
+[0.6547892093658447, 56187904, 52785152]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 80 50
+[2.011441469192505, 100323328, 96927744]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 80 100
+[3.2661335468292236, 159311872, 155955200]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 60 1000
+[23.73521661758423, 317006848, 313602048]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 80 500
+[13.325369834899902, 173746176, 169295872]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 80 1000
+[25.231478452682495, 176072704, 172662784]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 60 10000
+[227.86670398712158, 729348096, 725934080]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 80 3
+[0.45084142684936523, 42171392, 38809600]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 80 10
+[0.704512357711792, 58285056, 54894592]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 80 50
+[2.2000560760498047, 101465088, 98062336]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 80 100
+[2.7320120334625244, 172068864, 167596032]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 80 500
+[12.197396755218506, 564301824, 559865856]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 40 10000
+[968.4873332977295, 256430080, 253026304]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 60 3
+[0.791344404220581, 36751360, 32337920]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 60 10
+[1.7673156261444092, 51647488, 48226304]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 60 50
+[7.34968113899231, 66353152, 62943232]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 60 100
+[14.379920959472656, 64034816, 60653568]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 80 1000
+[29.39924716949463, 318060544, 314638336]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 40 10000
+[982.3562757968903, 351237120, 347795456]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 60 3
+[0.6485757827758789, 52655104, 48218112]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 60 10
+[1.2719511985778809, 65954816, 61435904]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 80 10000
+[265.32717394828796, 607812608, 603279360]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 100 3
+[0.5640003681182861, 37746688, 34353152]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 100 10
+[0.8155367374420166, 57504768, 54091776]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 60 50
+[6.851012945175171, 62276608, 58851328]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 100 50
+[2.365931749343872, 161022976, 157597696]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 100 100
+[4.094284296035767, 284946432, 281518080]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 60 100
+[15.707603454589844, 67349504, 63934464]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 60 500
+[56.942673683166504, 72921088, 69505024]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 100 500
+[16.99215078353882, 294666240, 290123776]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 100 1000
+[35.93147277832031, 299902976, 296550400]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 60 500
+[80.75710582733154, 73576448, 69054464]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 60 1000
+[142.91292595863342, 75800576, 72392704]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 60 1000
+[137.75919032096863, 84187136, 79671296]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 80 10000
+[298.9488413333893, 689024000, 684478464]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 100 3
+[0.8616945743560791, 52497408, 49135616]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 100 10
+[1.2473020553588867, 52601856, 49213440]
+
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 100 50
+[3.9919018745422363, 92314624, 88924160]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 100 100
+[7.5762834548950195, 292024320, 288624640]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 100 500
+[20.8785719871521, 178142208, 174727168]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 100 1000
+[36.949790954589844, 317696000, 314257408]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-8 10 100 10000
+[356.457453250885, 728935424, 724377600]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 1 3
+[0.20228910446166992, 20975616, 17592320]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 1 10
+[0.24540925025939941, 20598784, 17207296]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 1 50
+[0.5757067203521729, 25089024, 21676032]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 1 100
+[0.9166538715362549, 37462016, 34054144]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 1 500
+[2.6667582988739014, 68373504, 64962560]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 1 1000
+[4.897132873535156, 80690176, 77262848]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 1 10000
+[44.06341338157654, 216593408, 213184512]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 10 3
+[0.3530616760253906, 23936000, 20533248]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 10 10
+[0.5478270053863525, 37583872, 34205696]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 10 50
+[1.7066400051116943, 56829952, 53374976]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 10 100
+[2.9124646186828613, 63561728, 60145664]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 10 500
+[12.718371152877808, 66938880, 63496192]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 10 1000
+[26.561033248901367, 76351488, 72933376]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-1-blocks-12 10 100 10000
+[360.6122889518738, 739718144, 736272384]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 1 3
+[0.3764376640319824, 15365120, 12627968]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 1 10
+[0.4274618625640869, 15919104, 13205504]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 1 50
+[0.858051061630249, 29882368, 27127808]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 1 100
+[1.2449560165405273, 32336896, 29601792]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 1 500
+[3.4854326248168945, 70378496, 67641344]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 1 1000
+[6.962914943695068, 81258496, 78499840]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 1 10000
+[46.619651079177856, 309417984, 306032640]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 10 3
+[0.42414283752441406, 29277184, 25878528]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 10 10
+[0.6410307884216309, 38160384, 34795520]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 10 50
+[1.808687448501587, 60710912, 57356288]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 10 100
+[2.995222806930542, 68058112, 64614400]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 10 10000
+[265.29893612861633, 243613696, 240226304]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 10 500
+[12.709608793258667, 75533312, 71032832]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 20 3
+[0.4598557949066162, 34388992, 29888512]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 20 10
+[0.7938826084136963, 43114496, 38617088]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 20 50
+[2.9556398391723633, 57240576, 53796864]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 20 100
+[5.205052375793457, 65980416, 62541824]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 10 1000
+[25.72410535812378, 90554368, 87126016]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 20 500
+[25.30744481086731, 71321600, 67870720]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 20 1000
+[46.334638833999634, 80691200, 77246464]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 10 10000
+[250.9132297039032, 323840000, 320446464]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 20 3
+[0.6886658668518066, 23243776, 20520960]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 20 10
+[1.4875009059906006, 47241216, 44486656]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 20 50
+[4.720535755157471, 61022208, 57602048]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 20 100
+[5.356762647628784, 64902144, 61472768]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 20 500
+[24.118844747543335, 76050432, 72609792]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 20 1000
+[47.27553963661194, 91557888, 88141824]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 20 10000
+[485.0194752216339, 237898752, 234504192]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 40 3
+[0.8472425937652588, 31055872, 28323840]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 40 10
+[1.6771178245544434, 45234176, 42496000]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 40 50
+[5.903802394866943, 65018880, 61599744]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 40 100
+[10.728039503097534, 66915328, 63512576]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 40 500
+[44.480512857437134, 73082880, 69660672]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 40 1000
+[91.3485860824585, 75835392, 72404992]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 60 10000
+[1412.5341460704803, 243564544, 240140288]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 80 3
+[0.7904765605926514, 44350464, 39874560]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 80 10
+[2.750561237335205, 54912000, 50376704]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 80 50
+[9.618016242980957, 66914304, 62431232]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 80 100
+[17.792790412902832, 58471424, 55042048]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 60 10000
+[1418.1925084590912, 414996480, 411631616]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 80 3
+[1.0229549407958984, 43928576, 40546304]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 80 10
+[2.5225303173065186, 58764288, 55345152]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 80 50
+[9.594931840896606, 68327424, 64880640]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 20 10000
+[490.138795375824, 335447040, 330924032]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 40 3
+[0.6142740249633789, 37408768, 34029568]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 40 10
+
+[1.1939923763275146, 56272896, 52871168]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 40 50
+[5.249602556228638, 65185792, 61792256]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 80 100
+[17.771889209747314, 67587072, 64143360]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 40 100
+[10.870147228240967, 69576704, 66134016]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 80 500
+[91.6387951374054, 77392896, 70787072]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 40 500
+[45.28094983100891, 76424192, 73011200]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 80 500
+[89.47424936294556, 74370048, 69869568]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 40 1000
+[93.7446665763855, 87810048, 84443136]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 80 1000
+[178.11549401283264, 81351680, 76845056]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 80 1000
+[180.38785600662231, 87001088, 80752640]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 40 10000
+[924.3756020069122, 253414400, 250019840]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 60 3
+[0.6553845405578613, 37035008, 33665024]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 60 10
+[1.7212047576904297, 56993792, 53620736]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 60 50
+[6.9928834438323975, 68238336, 64892928]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 60 100
+[14.069729566574097, 65617920, 62222336]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 60 500
+[68.81325578689575, 67800064, 64385024]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 60 1000
+[133.37876796722412, 72064000, 68689920]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 40 10000
+[926.5445809364319, 386727936, 382214144]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 60 3
+[0.7066638469696045, 38429696, 33931264]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 60 10
+[1.7221152782440186, 58330112, 53784576]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 60 50
+[7.346720933914185, 69764096, 65224704]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 60 100
+[14.123088836669922, 69437440, 66019328]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 60 500
+[68.67491507530212, 72920064, 69488640]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 60 1000
+[134.69999861717224, 89291776, 85852160]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 80 10000
+[1777.1017518043518, 250150912, 246714368]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 100 3
+[0.8952295780181885, 46567424, 43216896]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 100 10
+[2.432889461517334, 56802304, 53420032]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 100 50
+[11.408178091049194, 66042880, 62640128]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 100 100
+[22.271692991256714, 65388544, 61956096]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 80 10000
+[1806.0526497364044, 347920384, 344530944]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 100 3
+[1.0050604343414307, 47715328, 44347392]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 100 10
+[2.535033941268921, 60549120, 57167872]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 100 50
+[11.830214023590088, 67502080, 64086016]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 100 500
+[109.89768838882446, 71652352, 67129344]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 100 100
+[22.457404375076294, 69552128, 65024000]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 100 500
+[114.40576815605164, 73739264, 70324224]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 100 1000
+[216.17123341560364, 80009216, 76578816]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 60 10000
+[1346.70596909523, 243767296, 240373760]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 80 3
+[0.8931879997253418, 50464768, 47058944]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 80 10
+[2.1033287048339844, 58851328, 55447552]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 80 50
+[9.77270793914795, 65946624, 62554112]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 80 100
+[19.153813362121582, 60037120, 56655872]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 100 1000
+[227.1446189880371, 91948032, 87474176]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 80 500
+[95.22061657905579, 71772160, 67284992]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 60 10000
+[1372.090343952179, 406073344, 401608704]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 80 3
+[1.5359735488891602, 39624704, 36888576]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 80 10
+[3.383087396621704, 59232256, 56500224]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 80 50
+[13.776889562606812, 63633408, 60915712]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 80 1000
+[210.09138751029968, 83367936, 80011264]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 80 100
+[27.457327842712402, 67306496, 63873024]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 80 500
+[99.46897554397583, 73712640, 69226496]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 80 1000
+[205.12748885154724, 88395776, 84996096]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-8 10 100 10000
+[2485.61957859993, 261593088, 258158592]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 1 3
+[0.4317820072174072, 18229248, 15499264]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 1 10
+[0.6562755107879639, 33858560, 31141888]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 1 50
+[0.871746301651001, 46075904, 43343872]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 1 100
+[1.3727736473083496, 51819520, 49131520]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 1 500
+[3.359640598297119, 125927424, 123187200]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 1 1000
+[6.669465780258179, 285730816, 282976256]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 1 10000
+[81.23862028121948, 1469679616, 1466933248]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 10 3
+[0.9315764904022217, 30244864, 27947008]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 10 10
+[1.3263752460479736, 56794112, 54489088]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 10 50
+[3.9696743488311768, 97849344, 95113216]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 10 100
+[5.951613426208496, 169551872, 166805504]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 10 500
+[26.869227409362793, 226588672, 223858688]
+
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 10 1000
+[48.05535125732422, 577160192, 574414848]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 80 10000
+[2165.8914399147034, 252349440, 248983552]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 100 3
+[2.613192558288574, 52244480, 49942528]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 100 10
+[6.820106029510498, 53582848, 51265536]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 100 50
+[24.03812599182129, 60164096, 57860096]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 100 100
+[49.86200714111328, 58048512, 55762944]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blake2b-rounds-12-blocks-12 10 100 10000
+[2649.053263902664, 374879232, 372129792]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-12 10 1 3
+[0.48118019104003906, 15543296, 13258752]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-12 10 1 10
+[0.8732404708862305, 30766080, 28495872]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-12 10 1 50
+[2.093289852142334, 65175552, 62885888]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-12 10 1 100
+[3.2760190963745117, 75213824, 72941568]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-12 10 1 500
+[8.81220555305481, 157295616, 155344896]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-12 10 1 1000
+[15.994079351425171, 322263040, 320294912]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 1 3
+[0.6109030246734619, 15224832, 13271040]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 1 10
+[1.414025068283081, 25023488, 23076864]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 1 50
+[5.753002882003784, 54077440, 52113408]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 1 100
+[9.717292070388794, 71485440, 69521408]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 1 500
+[47.47530698776245, 124107776, 122105856]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 1 1000
+[71.55762481689453, 191888384, 189603840]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 100 500
+[270.0324749946594, 69919744, 67178496]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 10 10000
+[580.9695343971252, 1480588288, 1477804032]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 20 3
+[0.7850689888000488, 56891392, 53473280]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 20 10
+[1.541978359222412, 88667136, 85217280]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 20 50
+[5.312147378921509, 168813568, 165376000]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 20 100
+[7.519253969192505, 237812736, 234319872]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 80 10000
+[2437.9728152751923, 347218944, 343838720]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 100 3
+[1.3301775455474854, 46814208, 44027904]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 100 10
+[4.5961737632751465, 54770688, 51990528]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 100 50
+[19.26603388786316, 59782144, 56987648]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 20 500
+[38.586719274520874, 350585856, 347803648]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 100 100
+[42.11750507354736, 65258496, 62492672]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-1-blocks-8 10 20 1000
+[97.13551354408264, 568397824, 565633024]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-12 10 1 3
+[0.7563438415527344, 16564224, 13856768]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-12 10 1 10
+[1.6097254753112793, 29727744, 26980352]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-12 10 1 50
+[3.691375732421875, 50480128, 47734784]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 100 1000
+[406.43252968788147, 73416704, 69992448]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-12 10 1 100
+[5.745564222335815, 58654720, 55234560]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-12 10 1 500
+[38.08436036109924, 160444416, 157028352]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-12 10 1 1000
+[58.9093918800354, 257035264, 253575168]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 1 10000
+[620.5407700538635, 1484047360, 1480556544]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 10 3
+[1.9397711753845215, 58286080, 51785728]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 10 10
+[3.8564391136169434, 62787584, 56250368]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 1 3
+[0.45738816261291504, 22230016, 17678336]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 1 10
+[0.5541260242462158, 22841344, 18321408]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 1 50
+[0.953737735748291, 47874048, 43311104]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 100 500
+[223.0606563091278, 69966848, 66535424]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 1 100
+[1.5225331783294678, 74907648, 70336512]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 1 500
+[5.873854398727417, 164805632, 160243712]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 10 50
+[17.154542684555054, 73548800, 67018752]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 1 1000
+[10.692116737365723, 382566400, 377987072]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 10 100
+[38.916643142700195, 72786944, 69337088]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 1 10000
+[94.61152744293213, 1481836544, 1477312512]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 10 3
+[0.7036042213439941, 54224896, 49725440]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 10 10
+[0.8313684463500977, 51384320, 46858240]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 10 50
+[3.5243422985076904, 106230784, 101691392]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 10 100
+[3.426689386367798, 180601856, 176111616]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 10 500
+[13.69148874282837, 512864256, 508338176]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 10 1000
+[36.96969676017761, 573345792, 569933824]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 10 500
+[136.37572479248047, 127206400, 122703872]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 100 1000
+[316.4970703125, 88866816, 85446656]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 10 1000
+[281.05672001838684, 194981888, 190513152]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 10 10000
+[411.3071014881134, 1465071616, 1458421760]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 20 3
+[1.0211224555969238, 54956032, 52211712]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 20 10
+[1.9545481204986572, 94384128, 91627520]
+
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 20 50
+[7.0570948123931885, 98321408, 94920704]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 20 100
+[9.288375616073608, 304033792, 300638208]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 20 500
+[43.57605791091919, 352104448, 348725248]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-8 10 20 1000
+[79.75534248352051, 536285184, 532914176]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-12 10 1 3
+[0.5294549465179443, 17034240, 13688832]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-12 10 1 10
+[0.6352837085723877, 19709952, 16375808]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-12 10 1 50
+[1.2702057361602783, 50482176, 47144960]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-12 10 1 100
+[1.9060564041137695, 86937600, 83603456]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-12 10 1 500
+[4.928100109100342, 220731392, 217374720]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-1-blocks-12 10 1 1000
+[7.690506219863892, 294917120, 291549184]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-12-blocks-8 10 1 3
+[0.611666202545166, 21107712, 17760256]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-12-blocks-8 10 1 10
+[1.0827393531799316, 31135744, 27820032]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-12-blocks-8 10 1 50
+[3.7530243396759033, 57218048, 53866496]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-12-blocks-8 10 1 100
+[6.300060272216797, 76660736, 73265152]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-12-blocks-8 10 1 500
+[28.068907260894775, 131109888, 127729664]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-12-blocks-8 10 1 1000
+[46.83070683479309, 198446080, 195055616]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-12-blocks-12 10 1 3
+[1.011946439743042, 24675328, 21311488]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-12-blocks-12 10 1 10
+[1.382298231124878, 33572864, 30253056]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-12-blocks-12 10 1 50
+[3.159755229949951, 71427072, 68071424]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-12-blocks-12 10 1 100
+[5.183290004730225, 83035136, 79642624]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-12-blocks-12 10 1 500
+[24.994949340820312, 163901440, 160546816]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blamka-rounds-12-blocks-12 10 1 1000
+[50.029900789260864, 257614848, 254242816]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 10 10000
+[2199.0605750083923, 1497614336, 1493106688]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 20 3
+[1.543487787246704, 60215296, 55734272]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 20 10
+[4.785204172134399, 72122368, 67612672]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 20 50
+[18.00992202758789, 70957056, 66441216]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 20 100
+[35.33597278594971, 78850048, 73666560]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-8 10 100 10000
+[2877.3964014053345, 273579008, 269058048]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 20 500
+[117.98823070526123, 140932096, 134283264]
+lyra2-generic-x86-64-threads-1-columns-256-sponge-blamka-rounds-12-blocks-12 10 100 10000
+[2569.828932285309, 391184384, 391110656]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 20 1000
+[218.26358318328857, 205683712, 205619200]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 20 10000
+[2194.424299955368, 1499174912, 1499095040]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 40 3
+[1.5369296073913574, 67116032, 60448768]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 40 10
+[5.096766710281372, 74349568, 74285056]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 40 50
+[21.930720329284668, 82740224, 82653184]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 40 100
+[43.32402420043945, 82889728, 82821120]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 40 500
+[212.21996116638184, 137669632, 137601024]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 40 1000
+[427.14600348472595, 207373312, 207302656]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 40 10000
+[4492.839079141617, 1507141632, 1507065856]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 60 3
+[2.0747933387756348, 61305856, 54571008]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 60 10
+[6.757347106933594, 64234496, 57524224]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 60 50
+[33.022481203079224, 69069824, 62398464]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 60 100
+[66.60661721229553, 163939328, 157261824]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 60 500
+[333.2023894786835, 140138496, 140070912]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 60 1000
+[688.1809089183807, 210798592, 210726912]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 60 10000
+[6840.72970032692, 1487627264, 1487560704]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 80 3
+[2.6507253646850586, 70472704, 70406144]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 80 10
+[8.42584776878357, 73987072, 73920512]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 80 50
+[41.160125494003296, 78656512, 78585856]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 80 100
+[82.19791007041931, 80580608, 80506880]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 80 500
+[411.10757875442505, 132495360, 132419584]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 80 1000
+[828.9502058029175, 207140864, 207069184]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 80 10000
+[8321.137259960175, 1489541120, 1489469440]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 100 3
+[3.484238624572754, 76056576, 75988992]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 100 10
+[10.438473463058472, 76890112, 76816384]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 100 50
+[51.2805438041687, 77321216, 77246464]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 100 100
+[102.43180394172668, 82305024, 82235392]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 100 500
+[514.6150863170624, 137483264, 137416704]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 100 1000
+[1031.78369474411, 218330112, 218267648]
+lyra2-generic-x86-64-threads-1-columns-2048-sponge-blake2b-rounds-12-blocks-8 10 100 10000
+[10512.017729520798, 1484875776, 1484804096]
