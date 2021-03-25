@@ -13,7 +13,7 @@ ptyprocess==0.5.2
 pyaml==17.8.0
 Pygments==2.2.0
 python-dateutil==2.6.1
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.2
 simplegeneric==0.8.1
 six==1.10.0
